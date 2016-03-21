@@ -1,0 +1,3 @@
+name: dart_all_the_things_site
+dependencies:
+  browser: any
